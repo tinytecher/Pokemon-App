@@ -11,5 +11,14 @@ As a future project I would like to store the users catches permentaly in a data
 ### Pokemon API
 - [Pokemon API](https://pokeapi.co/)
 
+## Set-Up
+ 1. Clone to VS code
+ 2. Open in browser
+
+## What I learned
+- How to mange Fetch Requests using asynchronus functions and awaiting promises.
+- Using DOM manipulation
+- When to scale back our MVP to complete the project within the 1 day deadline
+
 
 
