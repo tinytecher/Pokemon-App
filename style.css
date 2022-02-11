@@ -1,0 +1,80 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: helvetica, Arial;
+}
+.card {
+    max-width: 400px;
+    min-width:400px;
+    min-height: 600px;
+    max-height: 600px;
+    margin: auto;
+    background-color: rgb(255, 231, 13);
+    position: relative;
+    top: 20px;
+    border: 20px solid rgb(255, 252, 96);
+    border-radius: 5%;
+    padding: 5%;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.19), 0 10px 10px rgba(0,0,0,0.23);
+    line-height: 150%;
+  }
+
+.buttons {
+    margin: auto;
+    max-width: 400px;
+    position: relative;
+    top:2.5em;
+    
+}
+.give-new {
+    position: relative;
+    left: 8em;
+    background-color: rgb(128, 212, 240);
+    padding: 5%;
+    border-radius: 7%;
+}
+.throw-ball {
+    position: relative;
+    left: 5.5em;
+    background-color: rgb(128, 212, 240);
+    padding: 5%;
+    border-radius: 7%;
+    margin-top: 10px;
+}
+.image {
+    max-width: 350px;
+    max-height: 350px;
+    width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+.name-header {
+    font-size: 40px;
+}
+.inventory {
+    position: relative;
+    margin: auto;
+    top: 5em;
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(175, 225, 241);
+    max-width: 300px;
+}
+.inventoryList {
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgb(175, 225, 241);
+    max-width: 300px;
+}
+p {
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid;
+    background-color: gainsboro;
+    margin-top: 10px;
+    max-width: 150px;
+}
